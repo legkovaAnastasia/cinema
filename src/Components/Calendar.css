@@ -1,0 +1,27 @@
+.calendar {
+    display: inline-flex;
+    text-align: center;
+    font-size: medium;
+}
+
+.date {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    color: #282c34;
+    background-color: #76cfe7;
+    padding: 10px 10px 10px 10px;
+    margin: 4px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.content {
+    top: 6px;
+    border-radius: 50%;
+    color: #282c34;
+    background-color: #76cfe7;
+    text-align: center;
+    position: relative;
+}
