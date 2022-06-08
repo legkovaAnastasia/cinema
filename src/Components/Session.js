@@ -1,11 +1,12 @@
 import './Session.css'
 
-const Session = ({session}) => {
+const Session = ({array}) => {
+    
 
     return(
         <div className='sessionList'>
-            {session}
-
+            {array}
+jbkjbkjbk
     </div>
     )
 
