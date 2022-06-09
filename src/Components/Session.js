@@ -5,8 +5,10 @@ const Session = ({array}) => {
 
     return(
         <div className='sessionList'>
-            {array}
-jbkjbkjbk
+            
+10
+12
+
     </div>
     )
 
