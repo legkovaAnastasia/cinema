@@ -1,8 +1,17 @@
 .session {
-    color: aliceblue;
+    /* color: aliceblue; */
 }
 
-.sessionList {
-    background-color: aqua;
-    color: black;
+/* .sessionList {
+    margin-top: 30px;
+    margin-right: 30px;
+    background-color: aliceblue;
+} */
+
+.session {
+align-content: center;
+    margin: 15px 30px 15px 15px;
+width: 40px;
+/* padding-right: 5px; */
+background-color: aliceblue;
 }
